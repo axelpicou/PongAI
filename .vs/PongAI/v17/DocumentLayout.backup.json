@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apicou\\source\\repos\\PongAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\PlayerControl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:PlayerControl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\PlayerControl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:PlayerControl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Barre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Barre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Barre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Barre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|C:\\Users\\apicou\\source\\repos\\PongAI\\AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA9879BA-C669-46D8-BD58-F3145AC57BED}|PongAI.vcxproj|solutionrelative:AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T09:14:44.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stat.cpp",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Stat.cpp",
+              "RelativeDocumentMoniker": "Stat.cpp",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Stat.cpp",
+              "RelativeToolTip": "Stat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T09:14:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerControl.cpp",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\PlayerControl.cpp",
+              "RelativeDocumentMoniker": "PlayerControl.cpp",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\PlayerControl.cpp",
+              "RelativeToolTip": "PlayerControl.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T09:14:10.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Barre.cpp",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Barre.cpp",
+              "RelativeDocumentMoniker": "Barre.cpp",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Barre.cpp",
+              "RelativeToolTip": "Barre.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T09:13:51.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ball.cpp",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Ball.cpp",
+              "RelativeDocumentMoniker": "Ball.cpp",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Ball.cpp",
+              "RelativeToolTip": "Ball.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T09:13:31.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T09:13:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AI.h",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\AI.h",
+              "RelativeDocumentMoniker": "AI.h",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\AI.h",
+              "RelativeToolTip": "AI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T09:10:38.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerControl.h",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\PlayerControl.h",
+              "RelativeDocumentMoniker": "PlayerControl.h",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\PlayerControl.h",
+              "RelativeToolTip": "PlayerControl.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T09:10:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stat.h",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Stat.h",
+              "RelativeDocumentMoniker": "Stat.h",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Stat.h",
+              "RelativeToolTip": "Stat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T09:10:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ball.h",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Ball.h",
+              "RelativeDocumentMoniker": "Ball.h",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Ball.h",
+              "RelativeToolTip": "Ball.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T09:10:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Barre.h",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Barre.h",
+              "RelativeDocumentMoniker": "Barre.h",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Barre.h",
+              "RelativeToolTip": "Barre.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T09:10:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\apicou\\source\\repos\\PongAI\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\apicou\\source\\repos\\PongAI\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T09:06:23.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
